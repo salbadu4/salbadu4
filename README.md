@@ -1,22 +1,40 @@
-<h1>Hi, I'm Salatiel! 
+# Hi, I'm Salatiel Badu 👋
 
-  <a href="https://www.linkedin.com/in/Salatiel-badu/">Cybersecurity Professional</a>, 
-<h2>👨‍💻Cybersecurity Projects:</h2>
+🔐 Aspiring Cybersecurity Analyst
+🎓 Currently completing the Google Cybersecurity Certificate
 
-<h3>👨‍💻Certifications:</h3>
+---
 
+## 👨‍💻 About Me
 
+I am currently learning cybersecurity and building hands-on projects to develop my skills in security analysis, risk management, and incident response.
 
-[linkedin]: www.linkedin.com/in/salatiel-badu
+---
 
-Here are some ideas to get you started:
+## 🧠 Skills (In Progress)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Linux
+* SQL
+* Network Security
+* Security Analysis
+* Risk Assessment
+
+---
+
+## 📂 Projects
+
+* Security Audit (in progress)
+* Log Analysis Project (coming soon)
+* Linux Commands Notes (coming soon)
+
+---
+
+## 📜 Certifications
+
+* Google Cybersecurity Certificate (in progress)
+
+---
+
+## 📫 Connect with Me
+
+* LinkedIn: https://www.linkedin.com/in/Salatiel-badu/
