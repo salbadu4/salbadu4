@@ -23,7 +23,7 @@ I am currently learning cybersecurity and building hands-on projects to develop 
 
 ## 📂 Projects
 
-* Security Audit (in progress)
+* Botium Toys Security Audit
 * Log Analysis Project (coming soon)
 * Linux Commands Notes (coming soon)
 
