@@ -1,7 +1,13 @@
-## Hi there 👋
+<h1>Hi, I'm Salatiel! 
 
-<!--
-**salbadu4/salbadu4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <a href="https://www.linkedin.com/in/Salatiel-badu/">Cybersecurity Professional</a>, 
+<h2>👨‍💻Cybersecurity Projects:</h2>
+
+<h3>👨‍💻Certifications:</h3>
+
+
+
+[linkedin]: www.linkedin.com/in/salatiel-badu
 
 Here are some ideas to get you started:
 
