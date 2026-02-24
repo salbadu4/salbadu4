@@ -1,0 +1,80 @@
+# SIEM Alert Investigation & Incident Response Project
+
+## 📌 Overview
+This project demonstrates my ability to analyze security alerts and respond to potential threats using Security Information and Event Management (SIEM) concepts. The goal was to investigate a simulated security alert, determine its validity, and follow an incident response playbook to contain and resolve the issue.
+
+---
+
+## 🚨 Scenario
+A SIEM system generated an alert indicating a suspicious file download on a network endpoint. I was tasked with investigating the alert and determining whether it represented a legitimate security threat.
+
+---
+
+## 🛠 Tools & Concepts
+- SIEM (Security Information and Event Management)
+- Incident Response Lifecycle
+- Log Analysis
+- Threat Detection
+- Security Playbooks
+- Cybersecurity Fundamentals
+
+---
+
+## 🔍 Investigation Process
+
+### 1. Alert Review
+- Examined alert details such as timestamps, affected assets, and severity level
+- Identified potential indicators of compromise (IOCs)
+
+### 2. Validation
+- Determined whether the alert was a true positive or false positive
+- Confirmed that the suspicious activity required further action
+
+### 3. Containment
+- Followed incident response procedures to isolate the affected system
+- Prevented further spread of the potential threat
+
+### 4. Eradication & Recovery
+- Removed traces of the malicious activity
+- Restored affected systems to a secure state
+
+### 5. Post-Incident Actions
+- Documented findings and actions taken
+- Identified improvements for future response
+
+---
+
+## ✅ Outcome
+Successfully identified the appropriate response actions to contain and remediate the simulated incident. This project demonstrates an understanding of how security teams investigate and respond to real-world threats.
+
+---
+
+## 💡 Skills Demonstrated
+- Security Monitoring & Analysis
+- Incident Response
+- Log Analysis
+- Problem Solving
+- Critical Thinking
+- Cybersecurity Fundamentals
+
+---
+
+## 📚 What I Learned
+- How SIEM tools generate and display alerts
+- The importance of validating alerts before taking action
+- How to follow structured incident response procedures
+- How to think like a security analyst when investigating threats
+
+---
+
+## 🚀 Next Steps
+I am continuing to build hands-on cybersecurity projects, including:
+- Log analysis labs
+- Network traffic analysis
+- Threat detection scenarios
+
+---
+
+## 👨‍💻 Author
+Salatiel Badu
+Aspiring Cybersecurity Analyst  
